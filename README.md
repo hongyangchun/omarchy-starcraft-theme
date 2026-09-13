@@ -54,7 +54,7 @@ omarchy theme set starcraft
 
 ## Wallpapers (Backgrounds)
 
-Eight battle scenes — unit close-ups and combat action, remastered-style:
+Eight battle scenes — unit close-ups and combat action, remastered-style, native 2048×1152:
 
 1. `sc1-marines-vs-swarm.jpg` — 陆战队火力网迎击虫群冲锋 (Marines vs the swarm)
 2. `sc1-hydralisk-pack.jpg` — 刺蛇群·穿甲脊针齐射 (Hydralisk pack on creep)
