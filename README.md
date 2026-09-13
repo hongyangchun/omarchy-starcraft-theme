@@ -54,11 +54,8 @@ omarchy theme set starcraft
 
 ## Wallpapers (Backgrounds)
 
-13 official StarCraft: Remastered assets, sourced directly from **starcraftremastered.blizzard.com** (Blizzard CDN):
+9 official StarCraft: Remastered assets from **starcraftremastered.blizzard.com** (Blizzard CDN):
 
-- `sc1-official-terran.jpg` — Terran outpost on red desert (2600×1300)
-- `sc1-official-zerg.jpg` — Zerg hive, green mist (2600×1300)
-- `sc1-official-protoss.jpg` — Protoss temple, psi blue (2600×1300)
 - `sc1-official-finale.jpg` — Finale fleet over planet (2600×1200)
 - `sc1-official-hive-door.jpg` — Hive door close-up (2560×1440)
 - `sc1-official-gallery-01~08.jpg` — 8 official remastered screenshots (1600×900)
@@ -68,6 +65,13 @@ Cycle wallpapers:
 omarchy theme bg next
 ```
 
+## Icons
+
+Defaulted to `Yaru-contrast-dark`.
+
+## License
+
+MIT — see [LICENSE](LICENSE). **Wallpapers are artwork from StarCraft: Remastered © Blizzard Entertainment — included as unofficial fan-theme distribution, all rights belong to Blizzard.**
 ## Icons
 
 Defaulted to `Yaru-contrast-dark` — high-contrast glyphs that hold their own against psi gold.
