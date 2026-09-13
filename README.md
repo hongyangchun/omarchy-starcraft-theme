@@ -1,6 +1,6 @@
 # StarCraft (星际争霸) — Omarchy Theme
 
-A retro sci-fi dark theme for [Omarchy](https://omarchy.org), channeling the Koprulu sector of 1998: Terran rust-steel outposts under arc lights, Zerg hive clusters creeping across blasted worlds, and Protoss golden temples warping in beneath a nebula sky.
+A **StarCraft Remastered-style** dark theme for [Omarchy](https://omarchy.org): gauss rifles and psi blades, hive swarms and battlecruiser broadsides — eight battle scenes from the Koprulu sector of 1998, redrawn in high contrast.
 
 The palette wages the trilogy's war in colour — **Terran arc-electric blue against Psi command gold**, with Zerg acid green and creep violet tearing through the middle.
 
@@ -54,22 +54,29 @@ omarchy theme set starcraft
 
 ## Wallpapers (Backgrounds)
 
-Eight AI-generated 4K concept scenes in 1998 matte-painting style — original artwork evoking the Koprulu sector without reproducing any in-game assets:
+Eight battle scenes — unit close-ups and combat action, remastered-style:
 
-1. `sc1-terran-outpost.jpg` — 泰伦前哨基地·赤色荒漠 (Terran outpost on red desert)
-2. `sc1-zerg-hive.jpg` — 虫群巢穴·菌毯蔓延 (Zerg hive cluster on creep)
-3. `sc1-protoss-temple.jpg` — 星灵神庙·幽能圣所 (Protoss temple with psi shields)
-4. `sc1-battlefleet.jpg` — 战巡舰队·深空轨道 (Battlecruiser fleet in orbit)
-5. `sc1-mineral-field.jpg` — 晶体矿区·星环之夜 (Mineral field under a ringed planet)
-6. `sc1-char-volcano.jpg` — 查尔火山·焦土炼狱 (Char volcanic inferno)
-7. `sc1-orbital-platform.jpg` — 轨道平台·恒星光斑 (Orbital platform at sunrise)
-8. `sc1-khalendor.jpg` — 荒原遗迹·极光之夜 (Ruined monoliths under aurora)
+1. `sc1-marines-vs-swarm.jpg` — 陆战队火力网迎击虫群冲锋 (Marines vs the swarm)
+2. `sc1-hydralisk-pack.jpg` — 刺蛇群·穿甲脊针齐射 (Hydralisk pack on creep)
+3. `sc1-protoss-charge.jpg` — 狂徒灵能刃·相位冲锋 (Zealot & Dragoon charge)
+4. `sc1-battlecruiser-yamato.jpg` — 战巡舰大和炮齐射 (Battlecruiser Yamato cannon)
+5. `sc1-scv-mining.jpg` — SCV 采矿作业·焊花四溅 (SCV harvesting crystals)
+6. `sc1-psistorm.jpg` — 高阶圣堂武士·灵能风暴 (High Templar psi storm)
+7. `sc1-ghost-nuke.jpg` — 幽灵特工·核弹锁定 (Ghost designating nuke)
+8. `sc1-carrier-launch.jpg` — 航母舰载机群出击 (Carrier interceptor launch)
 
 Cycle wallpapers:
 ```bash
 omarchy theme bg next
 ```
 
+## Icons
+
+Defaulted to `Yaru-contrast-dark` — high-contrast glyphs that hold their own against psi gold.
+
+## License
+
+MIT — see [LICENSE](LICENSE). Wallpapers are original AI-generated battle artwork in a retro sci-fi style. StarCraft is a trademark of Blizzard Entertainment; this theme is an unofficial fan work and is not affiliated with or endorsed by Blizzard.
 ## Icons
 
 Defaulted to `Yaru-contrast-dark` — high-contrast glyphs that hold their own against psi gold.
