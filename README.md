@@ -54,18 +54,27 @@ omarchy theme set starcraft
 
 ## Wallpapers (Backgrounds)
 
-Eleven official-quality StarCraft: Remastered artworks — marines, hive monsters, Kerrigan, Raynor, carrier fleets and Char — curated from the community's highest-rated collection:
+13 official StarCraft: Remastered assets, sourced directly from **starcraftremastered.blizzard.com** (Blizzard CDN):
 
-- Terran: marine fireteams, Nova in stealth, Jim Raynor portrait, Dominion marines
-- Zerg: red swarm, hydralisk horror, impaler beasts, night raid on creep
-- Protoss: Zealot charge, psi warriors over Aiur
-- Space: Battlecruiser over a burning world
+- `sc1-official-terran.jpg` — Terran outpost on red desert (2600×1300)
+- `sc1-official-zerg.jpg` — Zerg hive, green mist (2600×1300)
+- `sc1-official-protoss.jpg` — Protoss temple, psi blue (2600×1300)
+- `sc1-official-finale.jpg` — Finale fleet over planet (2600×1200)
+- `sc1-official-hive-door.jpg` — Hive door close-up (2560×1440)
+- `sc1-official-gallery-01~08.jpg` — 8 official remastered screenshots (1600×900)
 
 Cycle wallpapers:
 ```bash
 omarchy theme bg next
 ```
 
+## Icons
+
+Defaulted to `Yaru-contrast-dark` — high-contrast glyphs that hold their own against psi gold.
+
+## License
+
+MIT — see [LICENSE](LICENSE). **Wallpapers are artwork from StarCraft: Remastered © Blizzard Entertainment — included as unofficial fan-theme distribution, all rights belong to Blizzard.** Not affiliated with or endorsed by Blizzard Entertainment.
 ## Icons
 
 Defaulted to `Yaru-contrast-dark` — high-contrast glyphs that hold their own against psi gold.
