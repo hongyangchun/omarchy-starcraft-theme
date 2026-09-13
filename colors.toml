@@ -1,0 +1,44 @@
+# Omarchy theme — "StarCraft" (星际争霸：母巢之战)
+# Palette designed around the three warring species of the Koprulu sector:
+# Terran rust-steel & neon arc blue, Zerg acid green & creep violet,
+# Protoss psi gold & warp cyan. Dark star-chart canvas, amber HUD highlights
+# — the colour of the 1998 briefing screen.
+
+mode = "dark"
+
+accent = "#e8b64c"                     # Psi command gold (幽能指挥金)
+selection = "#232d5a"                  # Star-chart navy (星图深蓝)
+selection_background = "#232d5a"
+selection_foreground = "#d8e4f8"
+muted = "#7a8699"                      # Spectre grey (幽灵灰)
+
+background = "#0c1220"                 # Koprulu deep space (科普卢深空)
+dark_background = "#080b14"            # Void night (虚空之夜)
+darker_background = "#05070e"          # Warp shadow (跃迁暗影)
+lighter_background = "#1a2340"         # Terran hull steel (泰伦舰钢)
+
+foreground = "#d9e2ef"                 # Console cream-blue (指挥台月白)
+dark_foreground = "#6b7889"            # Dreadnought shadow (无畏舰阴影)
+light_foreground = "#e8eef8"           # Docking bay white (机库白)
+bright_foreground = "#f2f7ff"          # Psi flash white (灵能闪光白)
+
+hyprland_active_border = "rgba(e8b64cee) rgba(3fa7d6ee) 45deg"
+hyprland_inactive_border = "rgba(151f33bb)"
+active_border_color = "#e8b64c"        # Psi gold focus ring
+active_tab_background = "#e8b64c"
+
+red = "#c74a33"                        # Terran rust flame (泰伦锈火)
+green = "#7ec850"                      # Zerg acid creep (虫群酸绿)
+yellow = "#e8b64c"                     # Psi command gold (幽能指挥金)
+orange = "#d97e2e"                     # Vespene amber (瓦斯琥珀)
+blue = "#3fa7d6"                       # Terran arc blue (弧电蓝)
+magenta = "#9d6bba"                    # Creep violet (菌毯紫)
+cyan = "#54c8d8"                       # Warp gate cyan (跃迁青)
+brown = "#7a5c42"                      # Char scorched earth (查尔焦土)
+
+bright_red = "#e0705a"
+bright_green = "#a3e078"
+bright_yellow = "#f4d078"
+bright_blue = "#6ec4ea"
+bright_magenta = "#bd94d8"
+bright_cyan = "#82dcea"
