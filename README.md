@@ -1,6 +1,6 @@
 # StarCraft (星际争霸) — Omarchy Theme
 
-A **StarCraft Remastered-style** dark theme for [Omarchy](https://omarchy.org): gauss rifles and psi blades, hive swarms and battlecruiser broadsides — eight battle scenes from the Koprulu sector of 1998, redrawn in high contrast.
+A **StarCraft Remastered-style** dark theme for [Omarchy](https://omarchy.org): gauss rifles and psi blades, hive swarms and battlecruiser broadsides — the Koprulu sector of 1998 in high contrast.
 
 The palette wages the trilogy's war in colour — **Terran arc-electric blue against Psi command gold**, with Zerg acid green and creep violet tearing through the middle.
 
@@ -37,11 +37,11 @@ omarchy theme set starcraft
 | `background` | `#0c1220` | 科普卢深空 (Koprulu deep space) |
 | `dark_background` | `#080b14` | 虚空之夜 (Void night) |
 | `darker_background` | `#05070e` | 跃迁暗影 (Warp shadow) |
-| `lighter_background` | `#151f33` | 泰伦舰钢 (Terran hull steel) |
+| `lighter_background` | `#1a2340` | 泰伦舰钢 (Terran hull steel) |
 | `foreground` | `#d9e2ef` | 指挥台月白 (Console cream-blue) |
 | `bright_foreground` | `#f2f7ff` | 灵能闪光白 (Psi flash white) |
 | `accent` | `#e8b64c` | 幽能指挥金 (Psi command gold) |
-| `selection` | `#1d2c4e` | 星图深蓝 (Star-chart navy) |
+| `selection` | `#232d5a` | 星图深蓝 (Star-chart navy) |
 | `muted` | `#7a8699` | 幽灵灰 (Spectre grey) |
 | `red` | `#c74a33` | 泰伦锈火 (Terran rust flame) |
 | `orange` | `#d97e2e` | 瓦斯琥珀 (Vespene amber) |
@@ -65,38 +65,6 @@ Cycle wallpapers:
 omarchy theme bg next
 ```
 
-## Icons
-
-Defaulted to `Yaru-contrast-dark`.
-
-## License
-
-MIT — see [LICENSE](LICENSE). **Wallpapers are artwork from StarCraft: Remastered © Blizzard Entertainment — included as unofficial fan-theme distribution, all rights belong to Blizzard.**
-## Icons
-
-Defaulted to `Yaru-contrast-dark` — high-contrast glyphs that hold their own against psi gold.
-
 ## License
 
 MIT — see [LICENSE](LICENSE). **Wallpapers are artwork from StarCraft: Remastered © Blizzard Entertainment — included as unofficial fan-theme distribution, all rights belong to Blizzard.** Not affiliated with or endorsed by Blizzard Entertainment.
-## Icons
-
-Defaulted to `Yaru-contrast-dark` — high-contrast glyphs that hold their own against psi gold.
-
-## License
-
-MIT — see [LICENSE](LICENSE). **Wallpapers are artwork from StarCraft: Remastered © Blizzard Entertainment — included as unofficial fan-theme distribution, all rights belong to Blizzard.** Not affiliated with or endorsed by Blizzard Entertainment.
-## Icons
-
-Defaulted to `Yaru-contrast-dark` — high-contrast glyphs that hold their own against psi gold.
-
-## License
-
-MIT — see [LICENSE](LICENSE). Wallpapers are original AI-generated battle artwork in a retro sci-fi style. StarCraft is a trademark of Blizzard Entertainment; this theme is an unofficial fan work and is not affiliated with or endorsed by Blizzard.
-## Icons
-
-Defaulted to `Yaru-contrast-dark` — high-contrast glyphs that hold their own against psi gold.
-
-## License
-
-MIT — see [LICENSE](LICENSE). Wallpapers are original AI-generated artwork in a retro sci-fi style. StarCraft is a trademark of Blizzard Entertainment; this theme is an unofficial fan work and is not affiliated with or endorsed by Blizzard.
