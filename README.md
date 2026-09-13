@@ -54,22 +54,25 @@ omarchy theme set starcraft
 
 ## Wallpapers (Backgrounds)
 
-Eight battle scenes — unit close-ups and combat action, remastered-style, native 2048×1152:
+Eleven official-quality StarCraft: Remastered artworks — marines, hive monsters, Kerrigan, Raynor, carrier fleets and Char — curated from the community's highest-rated collection:
 
-1. `sc1-marines-vs-swarm.jpg` — 陆战队火力网迎击虫群冲锋 (Marines vs the swarm)
-2. `sc1-hydralisk-pack.jpg` — 刺蛇群·穿甲脊针齐射 (Hydralisk pack on creep)
-3. `sc1-protoss-charge.jpg` — 狂徒灵能刃·相位冲锋 (Zealot & Dragoon charge)
-4. `sc1-battlecruiser-yamato.jpg` — 战巡舰大和炮齐射 (Battlecruiser Yamato cannon)
-5. `sc1-scv-mining.jpg` — SCV 采矿作业·焊花四溅 (SCV harvesting crystals)
-6. `sc1-psistorm.jpg` — 高阶圣堂武士·灵能风暴 (High Templar psi storm)
-7. `sc1-ghost-nuke.jpg` — 幽灵特工·核弹锁定 (Ghost designating nuke)
-8. `sc1-carrier-launch.jpg` — 航母舰载机群出击 (Carrier interceptor launch)
+- Terran: marine fireteams, Nova in stealth, Jim Raynor portrait, Dominion marines
+- Zerg: red swarm, hydralisk horror, impaler beasts, night raid on creep
+- Protoss: Zealot charge, psi warriors over Aiur
+- Space: Battlecruiser over a burning world
 
 Cycle wallpapers:
 ```bash
 omarchy theme bg next
 ```
 
+## Icons
+
+Defaulted to `Yaru-contrast-dark` — high-contrast glyphs that hold their own against psi gold.
+
+## License
+
+MIT — see [LICENSE](LICENSE). **Wallpapers are artwork from StarCraft: Remastered © Blizzard Entertainment — included as unofficial fan-theme distribution, all rights belong to Blizzard.** Not affiliated with or endorsed by Blizzard Entertainment.
 ## Icons
 
 Defaulted to `Yaru-contrast-dark` — high-contrast glyphs that hold their own against psi gold.
