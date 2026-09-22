@@ -68,3 +68,7 @@ omarchy theme bg next
 ## License
 
 MIT — see [LICENSE](LICENSE). **Wallpapers are artwork from StarCraft: Remastered © Blizzard Entertainment — included as unofficial fan-theme distribution, all rights belong to Blizzard.** Not affiliated with or endorsed by Blizzard Entertainment.
+
+---
+
+> This theme was made with the [omarchy-theme-skill](https://github.com/hongyangchun/omarchy-theme-skill) - the pipeline that sources art, builds palettes and ships the repo.
